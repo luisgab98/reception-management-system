@@ -24,7 +24,6 @@ Sistema web integral diseñado para modernizar y automatizar el control de acces
 - **Base de Datos:** MySQL (Relaciones estrictas entre Plazas, Áreas, Personal y Flujo de Visitas)
 
 ---
-
 ## 📸 Vista Previa de la Interfaz
 
 ### 📋 Dashboard de Monitoreo General
@@ -38,5 +37,5 @@ Sistema web integral diseñado para modernizar y automatizar el control de acces
 ![Detalles de Visita](Observaciones-detalles.jpeg)
 
 ### 📈 Historial y Exportación de Reportes
-![Historial de Completados](Historial_2.png)
-![Reporte PDF Generado](Reporte%20-%20Visitas%20PDF_2.png)
+![Historial de Completados](Historial.png)
+![Reporte PDF Generado](Reporte%20-%20Visitas%20PDF.png)
